@@ -3,7 +3,7 @@
         "types": [
             "node",
             "webdriverio/async",
-            "@wdio/jasmine-framework"
+            "@wdio/mocha-framework"
         ],
         "module": "commonjs"
     },

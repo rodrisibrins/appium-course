@@ -1,4 +1,7 @@
 const path = require('path');
+const { config } = require('process');
+config.user = 'sibrins';
+config.key = 'sibrins';
 
 exports.config = {
     //
