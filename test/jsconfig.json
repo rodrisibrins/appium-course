@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/jasmine-framework"
+        ],
+        "module": "commonjs"
+    },
+    "exclude": ["node_modules"]
+}
